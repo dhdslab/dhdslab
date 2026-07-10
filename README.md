@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/DHDS_logo.png" alt="Digital Health Data Science Lab" width="620" />
+<img src="DHDS_logo.png" alt="Digital Health Data Science Lab" width="620" />
 
 # Digital Health Data Science Lab · DHDS
 
